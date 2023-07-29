@@ -14,7 +14,7 @@ def get_stock_returns(ticker, start_date, end_date):
 def arithmetic_mean(returns):
     return sum(returns) / len(returns)
 
-# Initialize the overall portfolio returns
+# Initialize the overall portfolio returns to none
 portfolio_returns = None
 
 # Calculate individual stock returns and combine them to get portfolio returns
