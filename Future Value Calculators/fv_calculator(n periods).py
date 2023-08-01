@@ -1,5 +1,5 @@
 
-#Visualising the number of months (n) it will take to reach a future value at a given interest rate
+#Visualising the number of months (n) it will take to reach a future value at a given interest rate 
 
 import math
 import matplotlib.pyplot as plt
