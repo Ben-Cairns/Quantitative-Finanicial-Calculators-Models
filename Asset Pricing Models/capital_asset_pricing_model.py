@@ -22,7 +22,8 @@ def calculate_beta_and_capm(daily_returns, risk_free_rate, market_expected_retur
     
     return std_devs, betas, capm
 
-stock_tickers = ['AAPL', 'CVX', 'MSFT', '^GSPC']  # Replace with your desired stock tickers
+#Input the desired stocks and date range
+stock_tickers = ['AAPL', 'CVX', 'MSFT', '^GSPC'] 
 start = '2022-01-01'
 end = '2023-01-01'
 
