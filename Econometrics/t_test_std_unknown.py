@@ -1,4 +1,4 @@
-#This code will allow you to determine the mean with an unknown population std
+#This code will allow you to determine if the mean has changed with an unknown population std
 
 import math
 import scipy.stats as stats
